@@ -1,10 +1,10 @@
 # Data Science Virtual Internship Experience in Kalbe Nutritionals (Machine Learning Project)
 ## Project Background
-Virtual Intern Experience (VIX) is an internship program from Rakamin Academy in collaboration with companies. As a Data Scientist in Kalbe Nutritionals, there is a new project from inventory and marketing division.
-- Inventory Department requests a `Qty` (quantity) forecast from total all products in Kalbe.
-  - Goals: To identify estimation of quantity product sales to help inventory team to prepare optimum daily stock of products.
-- Marketing Department requests a customer segmentation (cluster) based on each common criterias. 
-  - Goals:  To categorize customers into a few clusters. The clusters will be used for a personalized promotion and sales treatment.
+Virtual Intern Experience (VIX) is an internship program from Rakamin Academy in collaboration with companies. As a Data Scientist in Kalbe Nutritionals, you are getting a new project from the inventory team and marketing team.
+- From the inventory team, you are asked to help predict the number of sales `Qty` (quantity) of the total Kalbe products
+  - Goal: To find out the estimated number of products sold so the team can make a sufficient daily stock.
+- From the marketing team, you are asked to create customer clusters/segments based on several criteria.
+  - Goal: To give personalized promotion and sales treatment.
 
 
 **Dataset**: Sales Data in 2022 Provided by Kalbe Nutritionals <br>
